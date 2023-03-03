@@ -1,0 +1,19 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Duke Statistical Science Undergraduate Thesis Template"
+  date: now
+  reader-mode: true
+  repo-url: https://github.com/DukeStatSci/dss-thesis
+  repo-branch: main
+  repo-actions: [edit, issue]
+
+format: 
+  pdf: default
+  html: 
+    mainfont: "Atkinson Hyperlegible"
+    toc: true
+
+editor: visual
