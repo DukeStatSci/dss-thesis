@@ -9,6 +9,15 @@ book:
   repo-url: https://github.com/DukeStatSci/dss-thesis
   repo-branch: main
   repo-actions: [edit, issue]
+  chapters:
+    - abstract.qmd
+    - introduction.qmd
+    - literaturereview.qmd
+    - methodology.qmd
+    - results.qmd
+    - conclusion.qmd
+    - appendix.qmd
+    - references.qmd
 
 format: 
   pdf: default
