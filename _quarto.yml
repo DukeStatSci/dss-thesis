@@ -10,6 +10,7 @@ book:
   repo-branch: main
   repo-actions: [edit, issue]
   chapters:
+    - index.qmd
     - abstract.qmd
     - introduction.qmd
     - literaturereview.qmd
