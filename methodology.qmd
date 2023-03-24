@@ -4,3 +4,34 @@ format: html
 editor: source
 ---
 
+Write your methodology here. This discusses and explains the data collection and analysis methods you used in your research. Include any relevant graphs, tables, and visualizations.
+
+Below is an example graph:
+
+```{r}
+#| echo: false
+library(ggplot2)
+```
+
+```{r}
+#| eval: false
+#| echo: false
+data(iris)
+```
+
+```{r}
+#| label: fig-scatterplot
+#| fig-cap: "Scatterplot showing the relationship between petal length and sepal length"
+#| echo: false
+
+iris |>
+  ggplot(
+    aes(x = Sepal.Length, y = Petal.Length, color = Species)
+  ) +
+  geom_point() +
+  geom_smooth(method = "lm", se = FALSE, formula = y ~ x, fullrange = TRUE) +
+  labs(x = "Sepal Length",
+       y = "Petal Length",
+       title = "Petal vs. Sepal Lengths for Different Iris Species")
+```
+

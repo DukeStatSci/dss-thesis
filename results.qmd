@@ -4,3 +4,8 @@ format: html
 editor: source
 ---
 
+Write your results here. Report the findings of your study based upon the information gathered as a result of the methodologies you applied. It should simply state the findings, without bias or interpretation, and arranged in a logical sequence.
+
+### Cross Referencing Tables and Figures
+
+Within your results and discussion, you can refer to specific figures and tables from your methogologies such as @fig-scatterplot.

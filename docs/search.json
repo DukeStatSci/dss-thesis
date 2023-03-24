@@ -9,9 +9,9 @@
   {
     "objectID": "introduction.html",
     "href": "introduction.html",
-    "title": "2  Introduction",
+    "title": "3  Introduction",
     "section": "",
-    "text": "2.0.1 Introduction"
+    "text": "Write your introduction here. You should present the topic and relevant background information. Detail the research problem and hypothesis and provide an overview of the key points of the paper."
   },
   {
     "objectID": "index.html",
@@ -19,5 +19,26 @@
     "title": "Duke Statistical Science Undergraduate Thesis Template",
     "section": "",
     "text": "Add text here"
+  },
+  {
+    "objectID": "results.html",
+    "href": "results.html",
+    "title": "6  Results",
+    "section": "",
+    "text": "Write your results here. Report the findings of your study based upon the information gathered as a result of the methodologies you applied. It should simply state the findings, without bias or interpretation, and arranged in a logical sequence.\n\n6.0.1 Cross Referencing Tables and Figures\nWithin your results and discussion, you can refer to specific figures and tables from your methogologies such as Figure 5.1."
+  },
+  {
+    "objectID": "conclusion.html",
+    "href": "conclusion.html",
+    "title": "7  Conclusion",
+    "section": "",
+    "text": "Write your conclusion here. Conclusions should summarize the problem, the solution and its main innovative features, outlining future work on the topic or application scenarios of the proposed solution."
+  },
+  {
+    "objectID": "methodology.html",
+    "href": "methodology.html",
+    "title": "5  Methodology",
+    "section": "",
+    "text": "Write your methodology here. This discusses and explains the data collection and analysis methods you used in your research. Include any relevant graphs, tables, and visualizations.\nBelow is an example graph:\n\n\n\n\n\n\n\n\n\n\n\nFigure 5.1: Scatterplot showing the relationship between petal length and sepal length"
   }
 ]
