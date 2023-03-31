@@ -23,6 +23,7 @@ book:
 format: 
   pdf: default
   html: 
+    theme: cerulean
     mainfont: "Atkinson Hyperlegible"
     toc: true
 
