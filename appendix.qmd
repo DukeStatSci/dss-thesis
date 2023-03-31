@@ -4,3 +4,4 @@ format: html
 editor: source
 ---
 
+Write your appendix here. You can include any supplementary information to facilitate understanding of your research. It is useful for providing additional information or clarification in your research thesis without making the final product too long.
