@@ -4,3 +4,4 @@ format: html
 editor: source
 ---
 
+Add references here, following standard formatting for bibliographical entries.

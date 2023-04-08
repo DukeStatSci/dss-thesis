@@ -40,5 +40,26 @@
     "title": "5  Methodology",
     "section": "",
     "text": "Write your methodology here. This discusses and explains the data collection and analysis methods you used in your research. Include any relevant graphs, tables, and visualizations.\nBelow is an example graph:\n\n\n\n\n\n\n\n\n\n\n\nFigure 5.1: Scatterplot showing the relationship between petal length and sepal length"
+  },
+  {
+    "objectID": "literaturereview.html",
+    "href": "literaturereview.html",
+    "title": "4  Literature Review",
+    "section": "",
+    "text": "Write your literature review here. This provides an overview of current knowledge, allowing you to identify relevant theories, methods, and gaps in the existing research that you can apply to your thesis."
+  },
+  {
+    "objectID": "appendix.html",
+    "href": "appendix.html",
+    "title": "8  Appendix",
+    "section": "",
+    "text": "Write your appendix here. You can include any supplementary information to facilitate understanding of your research. It is useful for providing additional information or clarification in your research thesis without making the final product too long."
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "9  References",
+    "section": "",
+    "text": "Add references here, following standard formatting for bibliographical entries."
   }
 ]
