@@ -8,4 +8,4 @@ Write your results here. Report the findings of your study based upon the inform
 
 ### Cross Referencing Tables and Figures
 
-Within your results and discussion, you can refer to specific figures and tables from your methogologies such as @fig-scatterplot.
+Within your results and discussion, you can refer to specific figures and tables from your methodologies such as @fig-scatterplot.
